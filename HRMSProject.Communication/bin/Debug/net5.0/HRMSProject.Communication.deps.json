@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HRMSProject.Communication/1.0.0": {
+        "runtime": {
+          "HRMSProject.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRMSProject.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

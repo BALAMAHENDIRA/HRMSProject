@@ -1,0 +1,15 @@
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\HRMSProject.Repository.deps.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\HRMSProject.Repository.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\ref\HRMSProject.Repository.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\HRMSProject.Repository.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.AssemblyInfoInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.AssemblyInfo.cs
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\ref\HRMSProject.Repository.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\HRMSProject.Repository.runtimeconfig.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\bin\Debug\net5.0\HRMSProject.Repository.runtimeconfig.dev.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.genruntimeconfig.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Repository\obj\Debug\net5.0\HRMSProject.Repository.csproj.AssemblyReference.cache

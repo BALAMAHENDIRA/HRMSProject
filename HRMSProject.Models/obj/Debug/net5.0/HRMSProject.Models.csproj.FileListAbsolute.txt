@@ -1,0 +1,12 @@
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\bin\Debug\net5.0\HRMSProject.Models.deps.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\bin\Debug\net5.0\HRMSProject.Models.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\bin\Debug\net5.0\ref\HRMSProject.Models.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\bin\Debug\net5.0\HRMSProject.Models.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.AssemblyInfoInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.AssemblyInfo.cs
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\ref\HRMSProject.Models.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Models\obj\Debug\net5.0\HRMSProject.Models.csproj.AssemblyReference.cache

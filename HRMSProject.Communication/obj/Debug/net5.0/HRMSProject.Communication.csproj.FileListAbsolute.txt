@@ -1,0 +1,12 @@
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.deps.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\bin\Debug\net5.0\ref\HRMSProject.Communication.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfoInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfo.cs
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.CoreCompileInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\ref\HRMSProject.Communication.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.AssemblyReference.cache

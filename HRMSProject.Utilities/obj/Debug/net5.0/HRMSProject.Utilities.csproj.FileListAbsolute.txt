@@ -1,0 +1,17 @@
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Utilities.deps.json
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Utilities.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\ref\HRMSProject.Utilities.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Utilities.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.AssemblyInfoInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.AssemblyInfo.cs
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\ref\HRMSProject.Utilities.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.csproj.AssemblyReference.cache
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Models.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Repository.dll
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Models.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\bin\Debug\net5.0\HRMSProject.Repository.pdb
+C:\Users\BALAMAHENDIRA\source\repos\HRMSProject\HRMSProject.Utilities\obj\Debug\net5.0\HRMSProject.Utilities.csproj.CopyComplete

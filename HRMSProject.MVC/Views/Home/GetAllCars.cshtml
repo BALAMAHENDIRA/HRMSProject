@@ -1,0 +1,71 @@
+﻿
+@model IEnumerable<HRMSProject.Models.CarVM>
+
+@{
+    ViewData["Title"] = "GetAllCars";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GetAllCars</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CarSeats)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CarType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        <span>@item.Model</span>
+    </td>
+    <td>
+        <span>@item.Brand</span>
+    </td>
+    <td>
+        <span>@item.Model</span>
+    </td>
+    <td>
+        <span>@item.Color</span>
+    </td>
+    <td>
+        <span>@item.CarSeats</span>
+    </td>
+    <td>
+        <span>@item.CarType</span>
+    </td>
+    <td>
+        <span>@item.PurchaseDate</span>
+    </td>
+    <td>
+        <span>@item.CategoryId</span>
+    </td>
+    <td>
+        <a asp-action="UpdateCars" asp-route-Vin="@item.Vin">Edit</a>
+    </td>
+    <td>
+        <a asp-action="Delete" asp-route-Vin="@item.Vin">Delete</a>
+    </td>
+</tr>
+    
+    }
+</table> 
